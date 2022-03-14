@@ -2,7 +2,9 @@
 
 ## Homepage
 https://nathansnow1981.github.io/project-storefront/
-
+___
+## 💡 You will need [Node.js](https://nodejs.org/dist/v16.14.0/node-v16.14.0-x64.msi "Download Node from here") to develop in React 💡
+___
 ## Syncing changes
 -   Make and save your local changes
 -   Open a terminal in `wherever_you_cloned_this_file\project-storefront`
